@@ -49,7 +49,7 @@ You can ask me in person for other stories that I'm afraid to share with the int
 - [Books](https://www.goodreads.com/mdangelo)
 - Colored pencils
 - NPR podcasts
-- [Photography](https://instagram.com/dangelosaurus)
+- [Photography](https://instagram.com/ozishemesh)
 
 #### Travel / Geography
 
