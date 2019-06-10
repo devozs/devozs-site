@@ -13,7 +13,7 @@ const Nav = () => (
         <img src={`${BASE_PATH}/images/me_icon.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Oz D&apos;Shemesh</h2>
+        <h2>Oz Shemesh</h2>
         <p><a href="mailto:ozishemesh@gmail.com">ozishemesh@gmail.com</a></p>
       </header>
     </section>
@@ -38,7 +38,7 @@ const Nav = () => (
           <li key={s.label}><a href={s.link}><FontAwesomeIcon icon={s.icon} /></a></li>
         ))}
       </ul>
-      <p className="copyright">&copy; Oz D&apos;Shemesh <Link to="/">devozs.tech</Link>.</p>
+      <p className="copyright">&copy; Oz Shemesh <Link to="/">devozs.tech</Link>.</p>
     </section>
   </section>
 );
